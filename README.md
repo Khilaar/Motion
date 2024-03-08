@@ -34,7 +34,7 @@ For further inquiries or to explore Motion, please contact team@email.com.
 
 Thank you for your interest in Motion! 🚀
 
-#Getting Started
+# Getting Started
 
 To get started with FactoryForge, follow these steps:
 
