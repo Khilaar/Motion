@@ -36,9 +36,10 @@ Thank you for your interest in Motion! 🚀
 
 # Getting Started
 
-To get started with FactoryForge, follow these steps:
 
-1.Clone the repository (frontend): git clone https://github.com/your-username/FactoryForge.git
+To get started with Motion, follow these steps:
+
+1.Clone the repository (frontend): git clone https://github.com/Khilaar/Motion.git
 
 2.CD into the frontend folder
 
@@ -47,6 +48,7 @@ To get started with FactoryForge, follow these steps:
 4.Start the development server: npm start
 
 5.Access the Application: Open your preferred web browser and navigate to localhost to access the Motion application.
+
 
 
 **Login or Register**
