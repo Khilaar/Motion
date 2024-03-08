@@ -40,7 +40,7 @@ To get started with FactoryForge, follow these steps:
 
 1.Clone the repository (frontend): git clone https://github.com/your-username/FactoryForge.git
 
-2. CD into the frontend folder
+2.CD into the frontend folder
 
 3.Install dependencies: cd FactoryForge npm install
 
