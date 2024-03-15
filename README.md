@@ -30,8 +30,6 @@ Following the completion of the backend, the frontend of Motion was developed ov
 Conclusion
 Motion represents the culmination of our efforts to create a robust and user-centric social media platform within a limited timeframe. With its array of features and emphasis on user experience, Motion aims to provide a fulfilling social networking experience for users, fostering meaningful connections and interactions. There is still some work to be done on it, but the next project was already waiting behind the next corner.
 
-For further inquiries or to explore Motion, please contact team@email.com.
-
 Thank you for your interest in Motion! 🚀
 
 # Getting Started
